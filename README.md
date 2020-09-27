@@ -1,4 +1,4 @@
-# Google Summer of Code 2019 - Work product summary
+# Google Summer of Code 2020 - Work product summary
 
 ### Student Name
 Prince Gupta (guptaprince8832@gmail.com)
